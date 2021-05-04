@@ -7,7 +7,7 @@ Ondriš    Mário <br>
 Opluštil  Filip <br>
 Pijáček   Štěpán <br>
 
-[Our project folder](https://github.com/xnanko00/Digital-electronics-1-Project)
+[Our project folder](https://github.com/xondri09/Digital-electronics-1-Project)
 
 ## Project objectives:
 In this project we are supposed to make a program in VHDL for door lock system with PIN (4-digit) terminal, 4x3 push buttons, 4-digit 7-segment display, relay for door lock control. As an extra feature we also added delete/reset button that resets keyboard sequence.
